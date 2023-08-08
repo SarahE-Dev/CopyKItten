@@ -47,4 +47,8 @@ border-bottom: solid black 1px;}
 padding: 4px;
 border-left: solid black 1px;}
 
+#cell-7:hover { background-color: blueviolet; }
+
+.cell { text-decoration: none; }
+
 

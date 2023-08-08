@@ -1,19 +1,26 @@
+.navbar { display: flex;
+}
+
+
 ul { list-style-type: none; 
 margin: 0;
-padding: 10px;
 background-color: rgb(60, 60, 60); 
+width: 100vw;
+display: flex;
+flex-direction: row;
+justify-content: center;
 
 
 }
 
-li { display: inline-block;
-padding: 5px; 
-margin-left: 80px;
-}
+li { padding: 20px;
+font-size: 20px; }
+
 
 li a { text-decoration: none; 
 color: white;
 }
 
 li a:hover { color: teal; }
+
 
