@@ -10,25 +10,3 @@ body {
   min-height: 800px;
 }
 
-#button { background-color: steelblue;
-  color: white;
-  padding: 20px;
-  font-size: x-large;
-  font-family: 'Times New Roman', Times, serif;
-  text-transform: uppercase;
-  text-decoration: none;
-  border-radius: 10px;
-  border-bottom: solid darkslateblue 5px;
-  text-align: center;
-  
-  }
-
-#button:hover {
-  background-color: dodgerblue;
-  border-bottom: none;
-  
-}
-
-.button {
-  margin: auto;
-}
