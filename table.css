@@ -1,0 +1,50 @@
+.numbers { margin: 20px;
+filter: blur(0.4px);}
+
+
+.row { padding: 7px;
+font-size: larger;
+margin-bottom: 5px;}
+
+.column { padding: 7px;}
+
+#cell-2, #cell-5, #cell-8 { margin: 3px; }
+
+#cell-5 { border: solid black 1px;
+padding: 4px;}
+#cell-2 { border-bottom: solid black 1px;
+padding: 4px;
+border-right: solid black 1px;
+border-left: solid black 1px;
+}
+#cell-8 { border-top: solid black 1px;
+padding: 4px;
+border-right: solid black 1px;
+border-left: solid black 1px;}
+#cell-1 { padding: 4px;
+border-right: solid black 1px;
+border-bottom: solid black 1px;
+
+}
+#cell-4 { border-right: solid black 1px;
+padding: 4px;
+border-top: solid black 1px;
+border-bottom: solid black 1px;}
+#cell-7 { padding: 4px;
+    border-top: solid black 1px;
+    border-right: solid black 1px;
+
+}
+#cell-3 { padding: 4px;
+border-left: solid black 1px;
+border-bottom: solid black 1px;
+}
+#cell-6 { border-left: solid black 1px;
+padding: 4px;
+border-top: solid black 1px;
+border-bottom: solid black 1px;}
+#cell-9 { border-top: solid black 1px;
+padding: 4px;
+border-left: solid black 1px;}
+
+
